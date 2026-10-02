@@ -1,5 +1,3 @@
-package array_category_c.class_problems;
-
 import java.util.Arrays;
 
 public class PodiumFinder {

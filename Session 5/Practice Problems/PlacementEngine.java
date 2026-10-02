@@ -1,5 +1,3 @@
-package array_category_c.assigment_problems;
-
 import java.util.Arrays;
 import java.util.Locale;
 

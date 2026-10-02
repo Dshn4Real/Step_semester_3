@@ -1,5 +1,3 @@
-package array_category_c.class_problems;
-
 public class SeatingGridOptimizer {
 
     private static double rowAverage(int[] row) {
